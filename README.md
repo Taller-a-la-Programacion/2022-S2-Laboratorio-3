@@ -37,7 +37,7 @@
 
 ```python
 >>> operacionesPorIndices([12,53.2, -8], [2, 2, 0], ["+", "+", "*"])
-0
+192
 >>> operacionesPorIndices([12,53.2, -8], [2, 2, 8], ["+", "+", "+"])
 -16
 >>> operacionesPorIndices([12,"53.2", -8], [2, 2, 8], ["-", "/", "*"])
